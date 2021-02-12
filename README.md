@@ -1,6 +1,8 @@
 ### Qui suis-je ? 🤔
 - Je m'appelle Hugo MATHIEU STEINBACH, et je suis actuellement étudiant en informatique (2ème année de licence).
 
+![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 <!--
 **Amaroke/Amaroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
