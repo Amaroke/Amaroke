@@ -1,5 +1,5 @@
-### Qui suis-je ?
-- Je m'appelle Hugo MATHIEU, et je suis actuellement étudiant en informatique (2ème année de licence).
+### Qui suis-je ? 🤔
+- Je m'appelle Hugo MATHIEU STEINBACH, et je suis actuellement étudiant en informatique (2ème année de licence).
 
 <!--
 **Amaroke/Amaroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
