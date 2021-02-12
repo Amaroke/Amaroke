@@ -1,9 +1,9 @@
 ### Qui suis-je ? 🤔
 - Je m'appelle Hugo MATHIEU STEINBACH, et je suis actuellement étudiant en informatique (2ème année de licence).
-
+<p align="center">
 ![](https://github.com/Amaroke/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Amaroke/github-stats/blob/master/generated/languages.svg)
-
+</p>
 <!--
 **Amaroke/Amaroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
