@@ -1,6 +1,6 @@
 ### Qui suis-je ? 🤔
 - Je m'appelle Hugo MATHIEU STEINBACH, et je suis actuellement étudiant en informatique (2ème année de licence).
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amaroke&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/Amaroke/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Amaroke/github-stats/blob/master/generated/languages.svg)
 <!--
