@@ -1,5 +1,3 @@
-
-<h3 align="center">Hi, I'm Amaroke!</h3>
 <p align="center">I'm currently a second-year Master's student in IT.</p>
 
 <p align="center">
