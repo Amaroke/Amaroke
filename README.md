@@ -1,7 +1,7 @@
 <p align="center">I'm currently a second-year Master's student in IT.</p>
 
 <p align="center">
-  <a href="https://github-readme-stats-git-master-amaroke.vercel.app/api/top-langs/?username=Amaroke&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=tla,scss,Standard%20ML,Lex,Hack,Shell,QMake,Assembly,OCaml,Makefile,Prolog,Objective-C,Matlab&exclude_repo=ShareCount">
+  <a href="https://github-readme-stats-git-master-amaroke.vercel.app/api/top-langs/?username=Amaroke&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=tla,scss,Standard%20ML,Lex,Hack,Shell,QMake,Assembly,OCaml,Makefile,Prolog,Objective-C,Matlab&exclude_repo=ArchivesS9,Sharecount">
     <img src="https://github-readme-stats-git-master-amaroke.vercel.app/api/top-langs/?username=Amaroke&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=tla,scss,Standard%20ML,Lex,Hack,Shell,QMake,Assembly,OCaml,Makefile,Prolog,Objective-C,Matlab&exclude_repo=ArchivesS9,Sharecount" />
   </a>
 </p>
