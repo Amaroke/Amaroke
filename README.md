@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Hugo, software engineer!</p>
+<h1 align="center">Hi, I'm Hugo, software engineer!</h1>
 
 <p align="center">
   <a href="https://github-readme-stats-git-master-amaroke.vercel.app/api?username=Amaroke&hide_title=true&show_icons=true&hide=prs,issues,contribs&include_all_commits=true&hide_rank=true&theme=transparent">
@@ -11,6 +11,6 @@
   </a>
 </p>
 
-<p align="center">
+<h3 align="center">
   Feel free to explore my <a href="https://amaroke.github.io/Portfolio">portfolio</a> to see more of my work and projects!
-</p>
+</h3>
