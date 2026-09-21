@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://amaroke.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-My%20projects%20and%20skills-4A90D9?style=for-the-badge&labelColor=24292f" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hugo-mathieu-steinbach/"><img src="https://img.shields.io/badge/LinkedIn-Hugo%20Mathieu%20Steinbach-0A66C2?style=for-the-badge&labelColor=24292f" alt="LinkedIn" /></a>
-  <a href="https://amaroke.github.io/AmarokeInsights/"><img src="https://img.shields.io/badge/AmarokeInsights-Finance%20website%20in%20French-2ECC71?style=for-the-badge&labelColor=24292f" alt="AmarokeInsights" /></a>
+  <a href="https://amaroke.github.io/AmarokeInsights/"><img src="https://img.shields.io/badge/AmarokeInsights-Finance%20website%20in%20French-9400D3?style=for-the-badge&labelColor=24292f" alt="AmarokeInsights" /></a>
 </p>
 
 ## Tech stack
