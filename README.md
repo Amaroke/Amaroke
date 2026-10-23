@@ -1,30 +1,29 @@
-<h1 align="center">Hugo Mathieu Steinbach</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18242F,55:662B28,100:DE6C3C&height=170&section=header&text=Hugo%20Mathieu%20Steinbach&fontColor=FAC070&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-  <b>Analyst Developer</b> at ITS4U · Luxembourg
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&multiline=true&repeat=false&height=75&width=520&color=DE6C3C&lines=Analyst+Developer+%40+ITS4U+%C2%B7+Luxembourg;Into+finance+and+new+tech" />
+  </picture>
 </p>
 
 <p align="center">
-  At work, I mainly use Java and Spring Boot. In my spare time, I build front-end projects with React, TypeScript and Tailwind CSS.<br/>
-  Passionate about new technologies and finance.
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/wave-dark.svg" />
+      <img src="icons/wave-light.svg" alt="Tech stack" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hugo-mathieu-steinbach/"><img src="https://img.shields.io/badge/LinkedIn-Hugo%20Mathieu%20Steinbach-0F1B2E?style=for-the-badge&labelColor=24292f" alt="LinkedIn" /></a>
-  <a href="https://amaroke.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-My%20projects%20and%20skills-1FB5B0?style=for-the-badge&labelColor=24292f" alt="Portfolio" /></a>
-  <a href="https://amaroke.github.io/AmarokeInsights/"><img src="https://img.shields.io/badge/AmarokeInsights-Finance%20website%20in%20French-FF6A13?style=for-the-badge&labelColor=24292f" alt="AmarokeInsights" /></a>
+  Java and Spring Boot at work. React, TypeScript and Tailwind CSS on weekends.<br/>
+  Into new technologies and finance.
 </p>
 
-## Tech stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <a href="https://www.linkedin.com/in/hugo-mathieu-steinbach/">LinkedIn</a> ·
+  <a href="https://amaroke.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://amaroke.github.io/AmarokeInsights/">AmarokeInsights</a>
 </p>
 
 ## GitHub stats
@@ -39,3 +38,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amaroke&theme=github&title_color=24292f&text_color=57606a&bg_color=ffffff&border_color=d0d7de&exclude=Jupyter%20Notebook,MATLAB,Makefile&exclude_repos=ArchivesS6,ArchivesS7,ArchivesS8,ArchivesS9" alt="Top languages by commit" />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DE6C3C,45:662B28,100:18242F&height=100&section=footer" width="100%" alt="Footer" />
