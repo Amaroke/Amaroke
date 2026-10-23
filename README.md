@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18242F,55:662B28,100:DE6C3C&height=170&section=header&text=Hugo%20Mathieu%20Steinbach&fontColor=FAC070&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18242F,55:662B28,100:DE6C3C&height=170&section=header&text=Hugo%20Mathieu%20Steinbach&fontColor=FFFFFF&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
   <picture>
